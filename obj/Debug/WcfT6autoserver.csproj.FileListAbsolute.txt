@@ -1,0 +1,7 @@
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\obj\Debug\WcfT6autoserver.csprojAssemblyReference.cache
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\obj\Debug\WcfT6autoserver.csproj.CoreCompileInputs.cache
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\bin\WcfT6autoserver.dll.config
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\bin\WcfT6autoserver.dll
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\bin\WcfT6autoserver.pdb
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\obj\Debug\WcfT6autoserver.dll
+C:\Users\jouninieminen\source\repos\WcfT6autoserver\WcfT6autoserver\obj\Debug\WcfT6autoserver.pdb
