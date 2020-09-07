@@ -1,0 +1,7 @@
+C:\Users\jouninieminen\source\repos\noppa\noppa\bin\Debug\noppa.exe.config
+C:\Users\jouninieminen\source\repos\noppa\noppa\bin\Debug\noppa.exe
+C:\Users\jouninieminen\source\repos\noppa\noppa\bin\Debug\noppa.pdb
+C:\Users\jouninieminen\source\repos\noppa\noppa\obj\Debug\noppa.csprojAssemblyReference.cache
+C:\Users\jouninieminen\source\repos\noppa\noppa\obj\Debug\noppa.csproj.CoreCompileInputs.cache
+C:\Users\jouninieminen\source\repos\noppa\noppa\obj\Debug\noppa.exe
+C:\Users\jouninieminen\source\repos\noppa\noppa\obj\Debug\noppa.pdb
